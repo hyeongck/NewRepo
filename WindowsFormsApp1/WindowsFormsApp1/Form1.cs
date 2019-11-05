@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
 
-            //편집
+            int a = 0;
 
         }
     }
