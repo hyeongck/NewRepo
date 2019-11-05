@@ -16,7 +16,6 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
 
-            int a = 0;
 
         }
     }
