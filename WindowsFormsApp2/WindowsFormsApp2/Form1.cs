@@ -25,5 +25,11 @@ namespace WindowsFormsApp2
            
         }
 
+        public void data3()
+        {
+
+        }
+
+
     }
 }
